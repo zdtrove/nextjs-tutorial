@@ -1,0 +1,29 @@
+{
+	"vehicles": [
+		{
+			"vehicle": "Car",
+			"ownerName": "Bruno Antunes",
+			"details": "some detail about Bruno's Car"
+		},
+		{
+			"vehicle": "Bike",
+			"ownerName": "Mark",
+			"details": "some detail about Mark's Bike"
+		},
+		{
+			"vehicle": "Airplane",
+			"ownerName": "Bruno Antunes",
+			"details": "some detail about Bruno's Airplane"
+		},
+		{
+			"vehicle": "SpaceX",
+			"ownerName": "Trump",
+			"details": "some detail about Trump's SpaceX"
+		},
+		{
+			"vehicle": "Car",
+			"ownerName": "Anna",
+			"details": "some detail about Anna's Car"
+		}
+	]
+}
